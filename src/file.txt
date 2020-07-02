@@ -5,4 +5,8 @@
 5 - asdnmkansfdk
 6 - Beta
 7 - Master
+<<<<<<< HEAD
 8 - Conflict
+=======
+9 - Beta Confl
+>>>>>>> beta
