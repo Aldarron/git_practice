@@ -8,7 +8,11 @@
 
 Origin
 commit from GH
+<<<<<<< HEAD
 same file from local
+=======
+new commit from GH
+>>>>>>> 9672cb66bb0baf13e2ae56c7c3c9906a3a5b2914
 
 <<<<<<< HEAD
 8 - Conflict
