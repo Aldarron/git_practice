@@ -8,6 +8,7 @@
 
 Origin
 commit from GH
+same file from local
 
 <<<<<<< HEAD
 8 - Conflict
